@@ -1,0 +1,39 @@
+"root":{8 items
+"name":string"Koala Heroes #007"
+"symbol":string""
+"description":string"Koala Heroes is a collection of 100 unique koala NFTs powered by Solana"
+"seller_fee_basis_points":int800
+"image":string"https://bafybeiah7efocj7kzwtgo47vm56sbthtgqh6ej6webxp4f7wsr74knkhiq.ipfs.dweb.link?ext=gif"
+"attributes":[4 items
+0:{2 items
+"trait_type":string"Generation"
+"value":string"Genesis"
+}
+1:{2 items
+"trait_type":string"Class"
+"value":string"Secret Agent"
+}
+2:{2 items
+"trait_type":string"Weight"
+"value":string"Light"
+}
+3:{2 items
+"trait_type":string"Power"
+"value":string"Weapons"
+}
+]
+"external_url":string""
+"properties":{3 items
+"files":[1 item
+0:{2 items
+"uri":string"https://bafybeiah7efocj7kzwtgo47vm56sbthtgqh6ej6webxp4f7wsr74knkhiq.ipfs.dweb.link?ext=gif"
+"type":string"image/gif"
+}
+]
+"category":string"image"
+"creators":[1 item
+0:{2 items
+"address":string"GhA8Feg4zuCWd4AW6tn2R3TwvH7r7Tp3XzhWYRAz9rko"
+"share":int100
+}
+]
